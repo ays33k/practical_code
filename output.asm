@@ -1,0 +1,9 @@
+START
+READ Ο
+READ T
+ONE Ο,9
+TWO T. 7
+STOP
+Ο DS 1
+T DS 1
+END
